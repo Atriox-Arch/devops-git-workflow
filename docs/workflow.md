@@ -19,3 +19,7 @@ Pull Requests are used to review changes before merging branches.
 ## Git Tag
 
 A Git tag identifies an important version of the project.
+
+## Feature Development
+
+This section was added using a feature branch.
